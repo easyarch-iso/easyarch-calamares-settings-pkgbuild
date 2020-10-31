@@ -1,0 +1,2 @@
+* EasyArch calamares settings PKGBUILD
+  EasyArch calamares settings PKGBUILD
